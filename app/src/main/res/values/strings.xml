@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BaiduLocation</string>
+    <string name="help">帮助</string>
+    <string name="message_need_permission">需要获取位置权限</string>
+    <string name="cancel">取消</string>
+    <string name="setting">设置</string>
+    <string name="get_location">获取位置</string>
+    <string name="activity_main">百度地图定位</string>
+    <string name="positioning">定位中...</string>
+    <string name="show_map">显示地图</string>
+</resources>
